@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Sandeep Pande</h1>
-<h3 align="center">Software Engineer | MERN Stack Developer | Python Enthusiast | DSA Learner</h3>
+<h3 align="center">Software Engineer | MERN Stack Developer | Python Programmer | DSA Enthusiast</h3>
 
 ---
 
 🔍 **About Me**
 
-- 🎓 Engineering student passionate about building efficient and scalable software solutions  
-- 💻 Skilled in **MERN Stack**, **Python**, and **Data Structures & Algorithms**  
-- 🔭 Currently working on full-stack projects and backend API integrations  
-- 📚 Consistently sharpening problem-solving skills through coding platforms  
-- 📫 Reach me: **sandeeppande035@gmail.com**  
-- 🌱 Currently exploring: **Next.js**, **Docker**, **TypeScript**, and **System Design**
+- 👨‍💻 I'm a passionate **Software Engineer** skilled in building full-stack web applications using **MERN stack** and **Python**
+- 💡 I have a strong foundation in **Data Structures & Algorithms**, with hands-on experience solving real-world coding problems
+- 🛠️ I love building scalable web applications and backend APIs with efficient database structures
+- 🚀 Currently seeking exciting opportunities to kickstart my professional journey as a **Full-Stack Developer / Software Engineer**
+- 📫 Reach me at: **sandeeppande035@gmail.com**
+- 🌱 Exploring: **TypeScript**, **Next.js**, **Docker**, and **System Design Concepts**
 
 ---
 
@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" />
 
@@ -54,27 +54,27 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" />
 
-  <!-- Other -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" />
+  <!-- Others -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" />
 </p>
 
 
 ---
 
-<h3 align="left">🚀 Competitive Programming</h3>
+<h3 align="left">💼 Career Interests</h3>
 
-- 📌 CodeChef: [sandyedittech](https://www.codechef.com/users/sandyedittech)  
-- 📌 HackerRank: [@sandipkumarpand2](https://www.hackerrank.com/sandipkumarpand2)
+- Full-Stack Web Development  
+- Backend/API Engineering  
+- Python Development  
+- Software Development Roles (Web, SaaS, Cloud, AI-integrated apps)  
+- Open to freelance and full-time positions
 
 ---
 
-<h3 align="left">💡 Featured Skills</h3>
+<h3 align="left">🚀 Competitive Programming</h3>
 
-- ✅ Full-Stack Web Development with MERN  
-- ✅ RESTful API Design & Backend Architecture  
-- ✅ Python scripting and problem solving  
-- ✅ Strong understanding of Data Structures & Algorithms  
-- ✅ UI/UX using Tailwind, Bootstrap, and responsive design
+- CodeChef: [sandyedittech](https://www.codechef.com/users/sandyedittech)  
+- HackerRank: [@sandipkumarpand2](https://www.hackerrank.com/sandipkumarpand2)
 
 ---
